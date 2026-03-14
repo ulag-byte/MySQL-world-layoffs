@@ -1,4 +1,4 @@
-# World Layoffs Data Cleaning
+# World Layoffs Data Cleaning and Analysing
 
 ## Overview
 Data cleaning project using MySQL on a real-world layoffs dataset.
